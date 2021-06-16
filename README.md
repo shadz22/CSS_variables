@@ -1,0 +1,1 @@
+## Practicing HTML variables with JavaScript
