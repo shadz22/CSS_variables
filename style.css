@@ -8,8 +8,6 @@ html {
   --base: rgb(255, 204, 0);
 }
 
-
-
 body {
   margin: 0;
   padding: 0;
@@ -24,4 +22,8 @@ h1 {
 
 .js {
   color: var(--base);
+}
+
+.controls {
+  font-size: 2rem;
 }
