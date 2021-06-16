@@ -6,6 +6,7 @@ html {
 
 :root {
   --base: rgb(255, 204, 0);
+  --spacing: 10px;
 }
 
 body {
@@ -26,4 +27,12 @@ h1 {
 
 .controls {
   font-size: 2rem;
+}
+
+img {
+  max-height: 50%;
+  max-width: 50%;
+  padding: var(--spacing);
+  margin: 40px;
+  background: var(--base);
 }
